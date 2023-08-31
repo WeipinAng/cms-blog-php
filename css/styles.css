@@ -1,0 +1,9 @@
+.pagination li .active_link {
+  background: #0d6efd !important;
+  color: #fff !important;
+}
+
+.pagination li .active_link:hover {
+  background: #0b5ed7 !important;
+  color: #fff !important;
+}
